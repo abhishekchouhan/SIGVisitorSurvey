@@ -236,7 +236,7 @@
                 android:layout_marginRight="20dp"
                 android:layout_weight="0.5"
                 android:gravity="right"
-                android:text="Would you like to receive the emails for future events ? "
+                android:text="Would you like to receive emails for future events ? "
                 android:textSize="@dimen/title_text_size" />
 
             <Switch

@@ -30,6 +30,9 @@ import java.util.Date;
 
 public class MainActivity extends Activity {
 
+    // 18 Nov 2015
+    private String version = "1.0";
+
     private EditText mFirstName, mLastName, mEmailAdd, mContactNumber, mDateVisit, mHearAbout,mStruckMost,mImprove;
     private Switch mFirstVisit, mReceiveMails;
     private Button mSave, mDiscard;
